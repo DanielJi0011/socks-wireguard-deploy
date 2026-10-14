@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS 四节点代理部署"
+  short_description: "部署 Reality、XHTTP、TUIC、Hysteria2 并生成设备独立订阅"
+  default_prompt: "使用 $socks-wireguard-deploy 为我的 VPS 部署 VLESS Reality、VLESS XHTTP、TUIC 和 Hysteria2 四种节点，并给电脑和手机分别生成独立的 Clash/Mihomo 订阅。"
